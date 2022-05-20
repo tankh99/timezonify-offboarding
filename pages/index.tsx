@@ -53,7 +53,7 @@ const Home: NextPage = () => {
 
   return (
     <div className='w-full h-full text-lg'>
-      <div className="flex justify-between items-center px-4 py-2 bg-blue-400 h-14 fixed top-0 left-0 w-full">
+      <div className="flex justify-between items-center px-4 py-2 bg-blue-200 h-14 fixed top-0 left-0 w-full">
         <div className="flex items-center" >
           <div className="mr-4 " style={{width: 40}}>
             <Image src={timezonifyLogo} layout="responsive" alt="Timezonify Logo" height={200} width={200}/>
@@ -69,8 +69,8 @@ const Home: NextPage = () => {
             </div>
         </Link>
       </div>
-      <div className='text-4xl font-bold text-center mt-14'>Help Us Improve</div>
-      <div className="p-6 grid grid-cols-2">
+      <div className='text-4xl font-bold text-center mt-20'>Help Us Improve</div>
+      <div className="p-6 grid grid-cols-2 gap-4">
         <div>
           
         <div className='text-xl font-bold text-left mb-2'>Why did you uninstall Timezonify?</div>
