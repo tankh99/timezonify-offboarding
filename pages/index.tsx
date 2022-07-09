@@ -129,7 +129,7 @@ const Home: NextPage = () => {
           <div className="font-bold text-xl mb-2">Developer&apos;s Message</div>
           <div className="bg-gray-100 p-4">
             Hi there. <br/><br/>
-            I&apos;m Khang Hou and I developed Timezonify alone as a personal project. I understand if the extension is not up to standard, but I would love to hear from you of any feedback so that I can improve upon the extension and make the experience for future users a better one.
+            I&apos;m Khang Hou and I developed Timezonify alone as a personal project. I would love to hear your feedback so that I can improve the extension and make the experience for future users a better one.
             I created Timezonify as a means of making it convenient for myself and others like me to convert between timezones without needing to Google it, and I&apos;d like to maintain that vision. If you have any criticism or feedback on the extension, providing it will help me understand in which direction I need to bring this extension towards.
             <br/><br/>
             Your feedback is greatly appreciated. Thank you very much.
